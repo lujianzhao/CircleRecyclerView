@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6c8d905a2df8c80ef8700e33fddd52bab41b7c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_938e8b41b924950c552b772a45ff37ac72947f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ec3741f5db4bd09dfc2a8fb434fa17b636f9816d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89a688d4543a62960b4c619c3f0b950a6bd6f425">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ddb6b88c70b5ad3a29c62f39e9c5d141a99c39b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_02ab647566218149b1dd0aad5578d35bde4ad88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_537571bd3a6b634bc58885147ed6432e0f967a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c965fe594ed3118f0a660b1e7f4703857e35c44d">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6589536ec1c181da5bea94a360a27230830ab58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-glide-transformations-2.0.1_7e4382b9ed3da4c86e8ef6a64900c6d6e37d1350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_734f903e2f356df69bd43a89fa5f7eaae44b1a7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_44283576c7dc548d29320d02089a5d5f12b01db1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lujianzhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/lujianzhao/Downloads/CircleRecyclerView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_efadc9d93125f79870cbee44f5568bb45919cd07/classes.dex" />
+    </item>
+
+</items>
